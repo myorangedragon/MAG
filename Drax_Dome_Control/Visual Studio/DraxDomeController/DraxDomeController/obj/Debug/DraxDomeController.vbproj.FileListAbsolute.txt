@@ -1,0 +1,54 @@
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Drax.Dome.dll.config
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Drax.Dome.dll
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Drax.Dome.pdb
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Drax.Dome.tlb
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Astrometry.dll
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Attributes.dll
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Controls.dll
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.SettingsProvider.dll
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Utilities.dll
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Internal.Extensions.dll
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Astrometry.xml
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Attributes.xml
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Controls.xml
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.DeviceInterfaces.xml
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Exceptions.xml
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.SettingsProvider.xml
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Utilities.xml
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Internal.Extensions.xml
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\obj\Debug\ASCOM.Drax.Resources.resources
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\obj\Debug\ASCOM.Drax.SetupDialogForm.resources
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\obj\Debug\DraxDomeController.vbproj.GenerateResource.Cache
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\obj\Debug\ASCOM.Drax.Dome.dll
+C:\Users\Heather\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\obj\Debug\ASCOM.Drax.Dome.pdb
+C:\Users\Heather\documents\visual studio 2015\Projects\DraxDomeController\DraxDomeController\obj\Debug\DraxDomeController.vbprojResolveAssemblyReference.cache
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Drax.Dome.dll.config
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Drax.Dome.dll
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Drax.Dome.pdb
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Astrometry.dll
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Attributes.dll
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Controls.dll
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.SettingsProvider.dll
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Utilities.dll
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Internal.Extensions.dll
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Astrometry.xml
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Attributes.xml
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Controls.xml
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.DeviceInterfaces.xml
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Exceptions.xml
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.SettingsProvider.xml
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Utilities.xml
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Internal.Extensions.xml
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\obj\Debug\DraxDomeController.vbproj.AssemblyReference.cache
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\obj\Debug\ASCOM.Drax.Resources.resources
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\obj\Debug\ASCOM.Drax.SetupDialogForm.resources
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\obj\Debug\DraxDomeController.vbproj.GenerateResource.cache
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\obj\Debug\DraxDomeController.vbproj.CoreCompileInputs.cache
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\obj\Debug\DraxDomeController.vbproj.CopyComplete
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\obj\Debug\ASCOM.Drax.Dome.dll
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\obj\Debug\ASCOM.Drax.Dome.pdb
+C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Drax.Dome.tlb
