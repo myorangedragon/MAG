@@ -96,6 +96,11 @@
               http://www.tigranetworks.co.uk/Astronomy
             </remarks>
         </member>
+        <member name="M:ASCOM.SettingsProvider.#cctor">
+            <summary>
+            Static initialiser called once per AppDomain to log the component name.
+            </summary>
+        </member>
         <member name="F:ASCOM.SettingsProvider.ascomProfile">
             <summary>
               A reference to an ASCOM profile provider. Normally, this will be the default implementation defined in
@@ -119,7 +124,7 @@
               Initializes a new instance of the <see cref = "T:ASCOM.SettingsProvider" /> class with the supplied
               Profile Provider. This is useful for injecting a mock profile object during unit testing.
             </summary>
-            <param name = "profileProvider">The <see cref = "T:ASCOM.Utilities.Interfaces.IProfile" /> to be used.</param>
+            <param name = "profileProvider">The IProfile component to be used.</param>
         </member>
         <member name="P:ASCOM.SettingsProvider.Name">
             <summary>

@@ -57,6 +57,11 @@
               </para>
             </summary>
         </member>
+        <member name="M:ASCOM.Controls.Annunciator.#cctor">
+            <summary>
+            Static initialiser called once per AppDomain to log the component name.
+            </summary>
+        </member>
         <member name="F:ASCOM.Controls.Annunciator.lastState">
             <summary>
               A flag that records the anunciator's last known state.
@@ -196,6 +201,11 @@
               base class, but provides some defaults that are appropriate for use with ASCOM.
             </summary>
         </member>
+        <member name="M:ASCOM.Controls.AnnunciatorPanel.#cctor">
+            <summary>
+            Static initialiser called once per AppDomain to log the component name.
+            </summary>
+        </member>
         <member name="M:ASCOM.Controls.AnnunciatorPanel.#ctor">
             <summary>
               Initializes a new instance of the <see cref = "T:ASCOM.Controls.AnnunciatorPanel" /> class.
@@ -219,6 +229,11 @@
                 <item>The <see cref = "M:ASCOM.Controls.ICadencedControl.CadenceUpdate(System.Boolean)" /> method is marshalled to the GUI thread.</item>
               </list>
             </remarks>
+        </member>
+        <member name="M:ASCOM.Controls.CadenceManager.#cctor">
+            <summary>
+            Static initialiser called once per AppDomain to log the component name.
+            </summary>
         </member>
         <member name="F:ASCOM.Controls.CadenceManager.instance">
             <summary>
@@ -442,6 +457,11 @@
             <remarks>
               Implements the <see cref = "P:ASCOM.Controls.ICadencedControl.Cadence" /> property.
             </remarks>
+        </member>
+        <member name="M:ASCOM.Controls.LedIndicator.#cctor">
+            <summary>
+            Static initialiser called once per AppDomain to log the component name.
+            </summary>
         </member>
         <member name="M:ASCOM.Controls.LedIndicator.#ctor">
             <summary>

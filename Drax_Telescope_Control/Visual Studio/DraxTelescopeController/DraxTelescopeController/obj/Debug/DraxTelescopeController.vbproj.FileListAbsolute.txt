@@ -26,3 +26,31 @@ C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxTelescopeCon
 C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxTelescopeController\DraxTelescopeController\obj\Debug\ASCOM.DRAX.Telescope.dll
 C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxTelescopeController\DraxTelescopeController\obj\Debug\ASCOM.DRAX.Telescope.pdb
 C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxTelescopeController\DraxTelescopeController\bin\Debug\ASCOM.DRAX.Telescope.tlb
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\bin\Debug\ASCOM.DRAX.Telescope.dll.config
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\bin\Debug\ASCOM.DRAX.Telescope.dll
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\bin\Debug\ASCOM.DRAX.Telescope.pdb
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\bin\Debug\ASCOM.DRAX.Telescope.tlb
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\bin\Debug\ASCOM.Astrometry.dll
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\bin\Debug\ASCOM.Attributes.dll
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\bin\Debug\ASCOM.Controls.dll
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\bin\Debug\ASCOM.SettingsProvider.dll
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\bin\Debug\ASCOM.Utilities.dll
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\bin\Debug\ASCOM.Internal.Extensions.dll
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\bin\Debug\ASCOM.Astrometry.xml
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\bin\Debug\ASCOM.Attributes.xml
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\bin\Debug\ASCOM.Controls.xml
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\bin\Debug\ASCOM.DeviceInterfaces.xml
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\bin\Debug\ASCOM.Exceptions.xml
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\bin\Debug\ASCOM.SettingsProvider.xml
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\bin\Debug\ASCOM.Utilities.xml
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\bin\Debug\ASCOM.Internal.Extensions.xml
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\obj\Debug\DraxTelescopeController.vbproj.AssemblyReference.cache
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\obj\Debug\ASCOM.DRAX.Resources.resources
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\obj\Debug\ASCOM.DRAX.SetupDialogForm.resources
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\obj\Debug\DraxTelescopeController.vbproj.GenerateResource.cache
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\obj\Debug\DraxTelescopeController.vbproj.CoreCompileInputs.cache
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\obj\Debug\DraxTele.AADC2247.Up2Date
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\obj\Debug\ASCOM.DRAX.Telescope.dll
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Telescope_Control\Visual Studio\DraxTelescopeController\DraxTelescopeController\obj\Debug\ASCOM.DRAX.Telescope.pdb

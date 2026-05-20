@@ -40,6 +40,11 @@
               </list>
             </remarks>
         </member>
+        <member name="M:ASCOM.DeviceIdAttribute.#cctor">
+            <summary>
+            Static initialiser called once per AppDomain to log the component name.
+            </summary>
+        </member>
         <member name="M:ASCOM.DeviceIdAttribute.#ctor(System.String)">
             <summary>
               Initializes a new instance of the <see cref = "T:ASCOM.DeviceIdAttribute" /> class.
@@ -75,6 +80,11 @@
               The 'friendly name' is what gets displayed to the user in the driver selection combo box.
               This attribute is also used by the LocalServer to filter the assemblies that it will
               attempt to load at runtime. LocalServer will only load classes bearing this attribute.
+            </summary>
+        </member>
+        <member name="M:ASCOM.ServedClassNameAttribute.#cctor">
+            <summary>
+            Static initialiser called once per AppDomain to log the component name.
             </summary>
         </member>
         <member name="M:ASCOM.ServedClassNameAttribute.#ctor(System.String)">

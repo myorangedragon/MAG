@@ -52,3 +52,31 @@ C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeControll
 C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\obj\Debug\ASCOM.Drax.Dome.dll
 C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\obj\Debug\ASCOM.Drax.Dome.pdb
 C:\Users\Heather Nickalls\Documents\Visual Studio 2015\Projects\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Drax.Dome.tlb
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Drax.Dome.dll.config
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Drax.Dome.dll
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Drax.Dome.pdb
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Drax.Dome.tlb
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Astrometry.dll
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Attributes.dll
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Controls.dll
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.SettingsProvider.dll
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Utilities.dll
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Internal.Extensions.dll
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Astrometry.xml
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Attributes.xml
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Controls.xml
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.DeviceInterfaces.xml
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Exceptions.xml
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.SettingsProvider.xml
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Utilities.xml
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\bin\Debug\ASCOM.Internal.Extensions.xml
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\obj\Debug\DraxDomeController.vbproj.AssemblyReference.cache
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\obj\Debug\ASCOM.Drax.Resources.resources
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\obj\Debug\ASCOM.Drax.SetupDialogForm.resources
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\obj\Debug\DraxDomeController.vbproj.GenerateResource.cache
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\obj\Debug\DraxDomeController.vbproj.CoreCompileInputs.cache
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\obj\Debug\DraxDome.1D55FA80.Up2Date
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\obj\Debug\ASCOM.Drax.Dome.dll
+C:\Users\heath\Documents\MAG_Git_repo\MAG\Drax_Dome_Control\Visual Studio\DraxDomeController\DraxDomeController\obj\Debug\ASCOM.Drax.Dome.pdb
