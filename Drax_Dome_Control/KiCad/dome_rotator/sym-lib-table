@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "dome_rotator-cache") (type "Legacy") (uri "C:/Users/Drax/Documents/git_repo/MAG/Drax_Dome_Control/KiCad/dome_rotator/dome_rotator-cache.lib") (options "") (descr "Legacy project cache library"))
+)
