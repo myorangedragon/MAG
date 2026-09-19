@@ -83,8 +83,10 @@ void DraxDomeCalibration::do_cal() {
 void DraxDomeCalibration::read_serial_data() {
     char tx_packet[50];
 
-    ser->readLine(tx_packet, 50);
-    qDebug() << "received: " << tx_packet;
+    uint64_t size = ser->read(tx_packet, 50);
+    tx_packet[size]='\0';
+    qDebug() << "received: " << size << " Characters \"" << tx_packet << "\"";
+
     if (tx_packet[0]=='0') {
         label_status->setText("Dome Cal failed");
         calibrating = false;
